@@ -1,1 +1,2 @@
 # Matplotlib_App
+Generated Random Data (possibly using numpy)  as two columns namely years (x-axis) and inflation (y-axis) and write these to a file as a data source for Matplotlib. Starting from the year 1900.  When the graph reaches the year 2022, generates data  from the begining.Created a  Matplotlib app that reads the data source file on the command line and continuously displays values from the data source.  Displayed 30 values at a time. Also,displayed Max, Min of values and display them as axis labels.
